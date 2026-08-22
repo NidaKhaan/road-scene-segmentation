@@ -1,0 +1,8 @@
+project:
+  name: roadseg
+  seed: 42
+
+data:
+  dataset: bdd100k
+  num_classes: 19
+  image_size: [720, 1280]
